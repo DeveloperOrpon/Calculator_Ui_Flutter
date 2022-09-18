@@ -1,16 +1,7 @@
 # calculator_app
 
 A new Flutter project.
+## calculator_app Ui Only :tada:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Look In Real Device: :tada:
+<img src='https://github.com/DeveloperOrpon/Calculator_Ui_Flutter/blob/main/ScreenShot.PNG?raw=true' width="300px" alt='Video Prohressbar'/>
